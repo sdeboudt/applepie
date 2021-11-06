@@ -21,4 +21,5 @@ Imports:
     tibble,
     withr
 Suggests: 
+    covr,
     testthat
